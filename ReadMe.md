@@ -24,7 +24,7 @@ $ git add
 <br>
 $ git  commit -m "RajatCommit"
 <br>
-$ git remote add origin https://github.com/rakesh1234-png/UserManagementSystem2.git
+git remote add origin https://github.com/Rajatchoudhary0001/usermanagment_2.git
 <br>
 $ git push -u origin master
 
